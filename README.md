@@ -1,2 +1,2 @@
 # CreateVariableNameShortcut
-Make a Shortcut for Variable Name File
+Make a Shortcut for Variable File Name
